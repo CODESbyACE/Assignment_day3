@@ -1,0 +1,12 @@
+#main{
+    background-color: blue;
+    padding: 10px;
+     display: flex;
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+.header{
+    padding: 10px;
+}
